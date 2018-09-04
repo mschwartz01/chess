@@ -1,4 +1,4 @@
-from nographics import *
+from utils import *
 import pygame
 import sys
 import os
